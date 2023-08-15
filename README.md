@@ -1,3 +1,5 @@
+https://youtu.be/9m-q8slNYYc
+
 Experiences and Strengths:
 
 Taking CS 470 has been an invaluable experience in shaping my journey as a software developer and preparing me for the challenges that lie ahead. This course has equipped me with a comprehensive understanding of various aspects of full stack web application development, from designing APIs to deploying applications in the cloud.
